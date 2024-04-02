@@ -1,14 +1,4 @@
-/*
-SQLyog Community Edition- MySQL GUI v5.22a
-Host - 5.0.19-nt : Database - securedata
-*********************************************************************
-Server version : 5.0.19-nt
-*/
 
-
-/*!40101 SET NAMES utf8 */;
-
-/*!40101 SET SQL_MODE=''*/;
 
 create database if not exists `securedata`;
 
