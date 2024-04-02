@@ -43,5 +43,4 @@ CREATE TABLE `registration` (
 
 insert  into `registration`(`userid`,`password`,`secretkey`,`name`,`age`,`address`,`reg_date`) values ('umesh','123','123','umesh','19','kjfsldakjfsa','2023-02-09 15:58:25');
 
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+
